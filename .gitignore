@@ -1,0 +1,8 @@
+# amplify
+node_modules
+.amplify
+.idea
+amplifyconfiguration*
+
+# Project exclude paths
+/.next/
